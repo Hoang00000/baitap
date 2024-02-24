@@ -1,0 +1,10 @@
+[
+
+    {"code": "SP001", "image": "1.jpg", "name": "Sản phẩm 1", "price": 50000, "rating": "Mới", "qty": "100", "editing": false },
+    {"code": "SP002", "image": "2.jpg", "name": "Sản phẩm 2", "price": 75000, "rating": "Đã qua SD", "qty": "100", "editing": false },
+    {"code": "SP003", "image": "3.jpg", "name": "Sản phẩm 3", "price": 30000, "rating": "Như mới", "qty": "100", "editing": false },
+    {"code": "SP004", "image": "4.jpg", "name": "Sản phẩm 4", "price": 100000, "rating": "Mới", "qty": "100", "editing": false },
+    {"code": "SP005", "image": "5.jpg", "name": "Sản phẩm 5", "price": 25000, "rating": "Đã qua SD", "qty": "100", "editing": false }
+      
+ ]
+ 
